@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
+
+
+model evaluation --> hyper parameter tuning
+model comparision --> model comparision
+selected features --> feature selection
